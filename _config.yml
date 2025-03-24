@@ -2,3 +2,5 @@ title: Dr. Carmen White
 description: Speech-Language Pathologist | Data Enthusiast | Creator
 theme: jekyll-theme-minimal
 show_downloads: false
+include:
+  - assets/css/custom.css
