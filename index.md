@@ -60,7 +60,7 @@ Hi! I'm Dr. Carmen White — a Speech-Language Pathologist, Data Science learner
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
 ### <a href="https://dr-carmenwhite.github.io/Excursion/" target="_blank">Excursion: App Landing Page</a>
 
