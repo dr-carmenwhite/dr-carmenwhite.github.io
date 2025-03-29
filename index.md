@@ -66,4 +66,22 @@ Hi! I'm Dr. Carmen White — a Speech-Language Pathologist, Data Science learner
 
 A responsive landing page created for a fictional travel app as part of a web development course. This project helped me strengthen my HTML and CSS skills while learning how to structure responsive layouts. Hosted on GitHub Pages.
 
+### <a href="https://www.codecademy.com/resources/docs/html/attributes/lang" target="_blank">Codecademy Docs Contribution — HTML lang Attribute</a>
+
+Contributed original documentation for the global lang attribute in HTML to the official Codecademy Docs. This entry explains how the attribute works, its syntax, and provides an example to improve accessibility and SEO for developers. Reviewed and merged as PR #6390.
+
+**Skills:** Technical Writing, GitHub Workflow, Open Source Collaboration, Markdown
+
+---
+
+## About
+
+I'm Dr. Carmen White — a Speech-Language Pathologist and data science learner with a passion for education, equity, and creative problem-solving. I use my background in health and education to build inclusive tools, document knowledge, and explore new technologies.
+
+When I’m not coding or writing, I’m probably nurturing my plants 🌿, traveling 🌍, or watching Bob’s Burgers 🍔.
+
+Let’s connect!
+
+
+
 
