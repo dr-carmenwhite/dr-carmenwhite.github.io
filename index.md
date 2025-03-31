@@ -72,6 +72,12 @@ Contributed original documentation for the global lang attribute in HTML to the 
 
 **Skills:** Technical Writing, GitHub Workflow, Open Source Collaboration, Markdown
 
+### [U.S. Medical Insurance Costs – Python Analysis](https://github.com/dr-carmenwhite/U.S.-Medical-Insurance-Project)
+
+A collaborative Python data project exploring how demographics and lifestyle affect medical insurance charges using pandas and real-world data from Kaggle. Includes correlations, cost breakdowns by region and smoking status, and JSON-based summaries.
+
+Tools used: Python, pandas, Git/GitHub, JSON, VS Code
+
 ---
 
 ## About
