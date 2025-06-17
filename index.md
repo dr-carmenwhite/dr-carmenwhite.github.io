@@ -78,6 +78,13 @@ A collaborative Python data project exploring how demographics and lifestyle aff
 
 Tools used: Python, pandas, Git/GitHub, JSON, VS Code
 
+### [This Is Jeopardy! – Python Terminal Quiz Game](https://github.com/dr-carmenwhite/this-is-jeopardy)
+
+A custom-built Jeopardy-style quiz game played in the terminal! Users can select themed trivia categories like **Bob’s Burgers** or **Zodiac Signs**, answer randomized questions, and track their score — all powered by Python and CSV files.
+
+**Skills:** Python, pandas, CSV Data Handling, User Input, CLI Game Logic, GitHub Workflow
+
+
 ---
 
 ## About
